@@ -1,6 +1,12 @@
 # Miscellaneous
 
+Practical exercise of Udemy course: [Angular: De cero a experto creando aplicaciones (Angular 9+)](https://www.udemy.com/share/101WdsB0sfd1tTRXo=/).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+
+## Install dependencies
+
+Run `npm install` to install dependencies.
 
 ## Development server
 
